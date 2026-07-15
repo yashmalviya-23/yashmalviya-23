@@ -1,112 +1,88 @@
-<div align="center">
+# Hi, I'm Yash Malviya 👋
 
-# Hi 👋, I'm Yash Malviya
+💻 C++ Developer | Linux Enthusiast | Aspiring Software Developer
 
-### 💻 Passionate Programmer | 🚀 Open Source Learner | 🐧 Linux Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;C%2B%2B+Developer;Linux+Enthusiast;Learning+DSA+%26+Open+Source;Always+Building+Something+New!" />
-
-</div>
+Passionate about building efficient programs, exploring Linux, and continuously improving my problem-solving skills.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Love building projects with **C++**
-- 🐧 Linux user and open-source enthusiast
-- 🌱 Currently learning **Data Structures & Algorithms**
-- ⚡ Exploring **System Programming** and **Web Development**
-- 🚀 Always improving my coding skills
+I am a Computer Science student with a strong interest in software development, system programming, and open-source technologies.
+
+I enjoy solving programming problems, learning new technologies, and building projects that strengthen my understanding of computer science concepts. Currently, I'm focused on mastering Data Structures & Algorithms while exploring Linux and modern development tools.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
+- C++
+- C
+- Python (Basics)
+- JavaScript (Basics)
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,javascript,bash" />
-</p>
+### Frontend
+- HTML
+- CSS
 
 ### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Linux (Kali Linux & Ubuntu)
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,ubuntu,cmake" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashmalviya-23&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=yashmalviya-23&theme=tokyonight&hide_border=true"/>
-
-</p>
+### Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- File Handling
+- STL
+- Operating System Basics
+- DBMS Fundamentals
 
 ---
 
-## 📈 Most Used Languages
+## 📌 Featured Projects
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashmalviya-23&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashmalviya-23&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
+- 📂 Student Record Management System
+- 📂 File Handling Projects in C++
+- 📂 Object-Oriented Programming Projects
+- 📂 Data Structures & Algorithms Solutions
 
 ---
 
-## 🔥 Contribution Graph
+## 🧠 Problem Solving & DSA
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmalviya-23&theme=tokyo-night"/>
-
-</p>
+- Solving Data Structures & Algorithms problems regularly.
+- Focus on Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, and Dynamic Programming.
+- Continuously improving logical thinking and coding efficiency.
 
 ---
 
-## 🚀 Current Goals
+## 🌱 Currently Learning
 
-- 📚 Master Data Structures & Algorithms
-- 🚀 Contribute to Open Source
-- 💻 Build Real-World Projects
-- 🐧 Deepen Linux Knowledge
-- ⚙️ Learn System Programming
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/yashmalviya-23">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-</p>
+- Advanced C++
+- Data Structures & Algorithms
+- Linux System Programming
+- Git & GitHub
+- Web Development Fundamentals
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-### ⭐ Thanks for visiting my profile!
+- GitHub: https://github.com/yashmalviya-23
 
-*"Code. Learn. Build. Repeat."* 🚀
+<!-- Add these when available -->
 
-<img src="https://komarev.com/ghpvc/?username=yashmalviya-23&label=Profile%20Views&color=0e75b6&style=flat"/>
+- LinkedIn: Your LinkedIn Profile
+- LeetCode: Your LeetCode Profile
+- Email: your-email@example.com
 
-</div>
+---
+
+### ⭐ Motto
+
+> "Code. Learn. Improve. Repeat."
+
+⭐ Thanks for visiting my GitHub profile!
