@@ -75,8 +75,8 @@ I enjoy solving programming problems, learning new technologies, and building pr
 
 <!-- Add these when available -->
 
-- LinkedIn: Your LinkedIn Profile
-- LeetCode: Your LeetCode Profile
+- LinkedIn: https://leetcode.com/u/yashmalviya_23/
+- LeetCode: https://www.linkedin.com/in/yash-malviya-a92791420/
 - Email: your-email@example.com
 
 ---
