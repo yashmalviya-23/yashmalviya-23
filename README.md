@@ -30,7 +30,8 @@ I enjoy solving programming problems, learning new technologies, and building pr
 - Git
 - GitHub
 - VS Code
-- Linux (Kali Linux & Ubuntu)
+- Linux (Kali Linux & Ubuntu) 
+- Unix
 
 ### Concepts
 - Data Structures & Algorithms
